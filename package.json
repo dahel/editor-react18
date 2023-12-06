@@ -1,5 +1,5 @@
 {
-  "name": "@mdxeditor/editor",
+  "name": "@mdxeditor/editor-react17",
   "author": "Petyo Ivanov",
   "homepage": "https://mdxeditor.dev/",
   "bugs": {
@@ -85,8 +85,8 @@
     "unidiff": "^1.0.2"
   },
   "peerDependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.22.1",
