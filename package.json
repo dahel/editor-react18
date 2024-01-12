@@ -65,7 +65,7 @@
     "hast-util-sanitize": "^4.1.0",
     "hast-util-to-html": "^8.0.4",
     "js-yaml": "4.1.0",
-    "lexical": "~0.12.4",
+    "lexical": "0.12.4",
     "mdast-util-directive": "2.2.4",
     "mdast-util-from-markdown": "^1.3.0",
     "mdast-util-frontmatter": "1.0.1",
